@@ -10,13 +10,14 @@
 
 ### About me
 
-Graduate of the dual degree in **Computer Engineering** and **Mathematics** at the University of Murcia, and a future cybersecurity expert. I'm into all things low-level — who doesn't enjoy programming directly against syscalls? I'm also looking forward to diving deeper into cybersecurity and systems administration.
+Graduate of the dual degree in **Computer Engineering** and **Mathematics** at the University of Murcia, and a future cybersecurity worker. I'm into all things low-level — who doesn't enjoy programming directly against syscalls? I'm also looking forward to diving deeper into cybersecurity, criptography and systems administration.
 
 Right now, I'm working on:
 
 - Making my container manager more and more complete
 - Building a graphics engine in C++ with OpenGL, with my own physics
 - Growing my knowledge of systems administration
+- Learning how criptography works under the hood (both mathematical and practical basis)
 - Learning more Japanese (my A2 is starting to feel a bit limited)
 
 ---
