@@ -27,6 +27,7 @@ Right now, I'm working on:
 | Project | Description |
 |---|---|
 | [**fcontainers**](https://github.com/FranUcles/fcontainers) | Docker-style container management system: CLI, daemon, and runtime (+ shim) to create and monitor containers |
+| [**kdf_tool**](https://github.com/FranUcles/kdf_tool) | Custom library in Python to generate crypto-robust material from passphrases by using Argon2id + HKDF |
 | [**cv**](https://github.com/FranUcles/cv) | CV generator (Spanish/English) with [RenderCV](https://github.com/rendercv/rendercv), automatically deployed via GitHub Actions + rsync |
 | [**auto-cryoet**](https://github.com/FranUcles/auto-cryoet) | Tools and workflow for Cryo-ET tomogram analysis based on TomoTwin and DisPerSE |
 | [**portfolio**](https://github.com/FranUcles/portfolio) | My personal portfolio |
